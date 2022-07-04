@@ -6,7 +6,7 @@ We developed a computationally efficient process-based snow model, SnowClim, tha
 Additional details regarding the SnowClim model physics, model calibration, climate data downscaling, model application to the western US, and model performance are available in:
 Lute, A. C., Abatzoglou, J., and Link, T.: SnowClim v1.0: high-resolution snow model and data for the western United States, Geosci. Model Dev., 15, 5045–5071, https://doi.org/10.5194/gmd-15-5045-2022, 2022.
 
-The beta release is available here:
+The SnowClim Model code is also available here:
 
 [![DOI](https://zenodo.org/badge/475599638.svg)](https://zenodo.org/badge/latestdoi/475599638)
 
